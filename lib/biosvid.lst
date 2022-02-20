@@ -1,0 +1,13 @@
+Publics by module
+
+BIOSVID 	size = 321
+	_biosgetcha                       _biosgetmode
+	_biosgetpos                       _bioshidecursor
+	_biospage                         _biosputch
+	_biosputcha                       _biosputchar
+	_biosputs                         _biossetmode
+	_biossetpos                     
+
+BPRINTF 	size = 358
+	_bprint                           _bprinta
+	_bprintaf                         _bprintf
